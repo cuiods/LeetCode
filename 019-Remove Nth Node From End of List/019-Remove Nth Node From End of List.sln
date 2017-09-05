@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019-Remove Nth Node From End of List", "019-Remove Nth Node From End of List\019-Remove Nth Node From End of List.vcxproj", "{8E62C3BE-EB7A-40EC-B43C-BD0458FF5496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E62C3BE-EB7A-40EC-B43C-BD0458FF5496}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E62C3BE-EB7A-40EC-B43C-BD0458FF5496}.Debug|Win32.Build.0 = Debug|Win32
+		{8E62C3BE-EB7A-40EC-B43C-BD0458FF5496}.Release|Win32.ActiveCfg = Release|Win32
+		{8E62C3BE-EB7A-40EC-B43C-BD0458FF5496}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

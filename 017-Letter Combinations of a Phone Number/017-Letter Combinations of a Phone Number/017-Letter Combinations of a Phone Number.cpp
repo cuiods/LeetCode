@@ -10,15 +10,24 @@ using namespace std;
 
 class Solution {
 public:
-	map<char,vector<string>> letterMapping;
-	Solution() {
-		string twos[] = {"abc"};
-	}
     vector<string> letterCombinations(string digits) {
+		string digitMapping[10] = {"0","1","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+		vector<string> result;
+		if (digits.empty()) return result;
+		result.push_back("");
+		for (unsigned int i = 0; i < digits.length(); i++) {
+			string chars = digitMapping[digits[i]-'0'];
+			vector<string> nextResult;
+			for (unsigned int j = 0; j < result.size(); j++) {
+				string tempStr = result[j];
+				for (unsigned int k = 0; k  < chars.length(); k ++) {
+					nextResult.push_back(tempStr+chars[k]);
+				}
+			}
+			result = nextResult;
+		}
+		return result;
     }
-
-	void letterCombinations(string digits, int index, vector<int>& result) {
-	}
 };
 
 int _tmain(int argc, _TCHAR* argv[])
