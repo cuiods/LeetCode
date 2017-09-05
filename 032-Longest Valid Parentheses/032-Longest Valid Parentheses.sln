@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032-Longest Valid Parentheses", "032-Longest Valid Parentheses\032-Longest Valid Parentheses.vcxproj", "{B703A548-5D54-4DF1-A4DA-A4C56F84220A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B703A548-5D54-4DF1-A4DA-A4C56F84220A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B703A548-5D54-4DF1-A4DA-A4C56F84220A}.Debug|Win32.Build.0 = Debug|Win32
+		{B703A548-5D54-4DF1-A4DA-A4C56F84220A}.Release|Win32.ActiveCfg = Release|Win32
+		{B703A548-5D54-4DF1-A4DA-A4C56F84220A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
