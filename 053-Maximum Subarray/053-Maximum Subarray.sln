@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "053-Maximum Subarray", "053-Maximum Subarray\053-Maximum Subarray.vcxproj", "{4AC9BAB1-9598-49A9-98CE-5E338A9A71DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC9BAB1-9598-49A9-98CE-5E338A9A71DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AC9BAB1-9598-49A9-98CE-5E338A9A71DA}.Debug|Win32.Build.0 = Debug|Win32
+		{4AC9BAB1-9598-49A9-98CE-5E338A9A71DA}.Release|Win32.ActiveCfg = Release|Win32
+		{4AC9BAB1-9598-49A9-98CE-5E338A9A71DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
