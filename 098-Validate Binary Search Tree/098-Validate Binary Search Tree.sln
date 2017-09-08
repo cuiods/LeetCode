@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "098-Validate Binary Search Tree", "098-Validate Binary Search Tree\098-Validate Binary Search Tree.vcxproj", "{75066581-81E1-4379-B4F8-0FE9C3229DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75066581-81E1-4379-B4F8-0FE9C3229DA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75066581-81E1-4379-B4F8-0FE9C3229DA9}.Debug|Win32.Build.0 = Debug|Win32
+		{75066581-81E1-4379-B4F8-0FE9C3229DA9}.Release|Win32.ActiveCfg = Release|Win32
+		{75066581-81E1-4379-B4F8-0FE9C3229DA9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
